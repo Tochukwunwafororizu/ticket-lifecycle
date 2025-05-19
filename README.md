@@ -28,6 +28,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
+
+ We are going to use the two URL to log into the osTicket as Admin/Analyst and as End Users to see if it works.
+
+- http://localhost/osTicket/scp/login.php
+- http://localhost/osTicket
+- In this lab, we will be creating tickets as end users
+Observing all the ticket properties and responding to them as help desk professionals.
+Before we get started, I will start by making so making some adjustments 
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
