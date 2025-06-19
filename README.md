@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
  In this lab, I will be creating tickets as end users
 Observing all the ticket properties and responding to them as help desk professionals.
-Before we get started, I will start by making an important adjustment. Log in as Admin and go to Admin panel - Agents( The one on top) -Departments - Maintenance - on the status that is Archived just "delete Maintenance entirely".
+Before we get started, I will start by making an important adjustment. Log in as Admin and go to Admin panel-> Agents( The one on top)-> Departments-> Maintenance-> on the status that is Archived just "delete Maintenance entirely".
 
 
 
