@@ -29,11 +29,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 
- I am going to use the two URL to log into the osTicket as Admin/Analyst and as End Users ( Same URL  previously used).
+ I am going  to log into the osTicket as Admin/Analyst and as End Users.
 
-- http://localhost/osTicket/scp/login.php
-- http://localhost/osTicket
-- In this lab, I will be creating tickets as end users
+ In this lab, I will be creating tickets as end users
 Observing all the ticket properties and responding to them as help desk professionals.
 Before we get started, I will start by making an important adjustment. Log in as Admin and go to Admin panel - Agents( The one on top) -Departments - Maintenance - on the status that is Archived just "delete Maintenance entirely".
 
@@ -70,7 +68,6 @@ And i will attempt to observe the ticket again as “john” and see the change 
 Work the ticket to completion as "Jane" By logging in as as Admin user "Jane"
 <p>
 <img src="https://i.imgur.com/evP9tqZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<p>
 <img src="https://i.imgur.com/8E4DKBW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <p>
 <img src="https://i.imgur.com/9dGFyL0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -82,6 +79,6 @@ Work the ticket to completion as "Jane" By logging in as as Admin user "Jane"
 <img src="https://i.imgur.com/WqcL5da.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
