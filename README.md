@@ -36,19 +36,23 @@ Observing all the ticket properties and responding to them as help desk professi
 Before we get started, I will start by making an important adjustment. Log in as Admin and go to Admin panel > Agents( The one on top) > Departments > Maintenanc> on the status that is Archived just "delete Maintenance entirely".
 
 
+<img width="1481" height="989" alt="image" src="https://github.com/user-attachments/assets/88023755-e007-4191-acf8-48846bcf8531" />
 
-<img src="https://i.imgur.com/8iKNact.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-<img src="https://i.imgur.com/N9vyMOw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1471" height="953" alt="image" src="https://github.com/user-attachments/assets/c36f24d3-c34b-49f9-a260-610b23e5abe1" />
+ 
 <p>
-<img src="https://i.imgur.com/JRtUGZg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img width="1017" height="891" alt="image" src="https://github.com/user-attachments/assets/fc6c5a42-dec6-4a4a-bd7d-3c7811c42523" />
+
 <p>
 Next, I'm going to log out as Admin and log in as end user and create a ticket using the second URL above. I'm going to use our end user "Karen" to open a ticket for entire online/mobile 
  banking system that is down.
 </p>
- <img src="https://i.imgur.com/2FvM9Dl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1509" height="994" alt="image" src="https://github.com/user-attachments/assets/e95cf9d2-2fd7-43a2-82c6-967bb78aabc0" />
+
 <p>
- <img src="https://i.imgur.com/qQhLZLY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1529" height="1047" alt="image" src="https://github.com/user-attachments/assets/95af5309-8166-4a89-accb-00fe82e8dfd7" />
+
 <p>
 
 </p>
@@ -67,18 +71,25 @@ i will attempt to observe the ticket again as “john” and see the change that
 
 Finally, I will Work the ticket to completion as "Jane" By logging in as as Admin user "Jane"
 <p>
-<img src="https://i.imgur.com/evP9tqZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/8E4DKBW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<p>
-<img src="https://i.imgur.com/9dGFyL0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/hg2cFuO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/DuJNgYH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/2hoJg16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/J5p7Fdu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/WqcL5da.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-
+ <img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/b9ba4d2e-2be2-4ad8-bfe8-4fbbdb2a1235" />
  
+ <img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/afaf6b8d-ed7b-40e1-8590-1f85ada4b2c4" />
+
+<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/e6c77710-2706-4828-9c79-8113a2db4f45" />
+
+
+<img width="1913" height="1044" alt="image" src="https://github.com/user-attachments/assets/530434b3-3b06-420d-8842-cf10325db83c" />
+ 
+<img width="1892" height="1031" alt="image" src="https://github.com/user-attachments/assets/1d2bd9e5-9711-40ca-a59b-ac5644c6c766" />
+ 
+<img width="992" height="954" alt="image" src="https://github.com/user-attachments/assets/196a5942-9716-448a-89b2-353850d30ec0" />
+
+<img width="1010" height="1046" alt="image" src="https://github.com/user-attachments/assets/806eb119-9b66-4fec-a1e1-43a473154e78" />
+
+<img width="1000" height="1054" alt="image" src="https://github.com/user-attachments/assets/a5717152-f41a-4789-9c0f-eebe9d2a79de" />
+
+
+
 
 </p>
 <br />
